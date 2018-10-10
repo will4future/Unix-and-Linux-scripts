@@ -1,2 +1,3 @@
 #!/bin/sh
 ps -ef > /tmp/wilson
+echo "Hello there"
