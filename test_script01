@@ -1,14 +1,3 @@
 #!/bin/sh
 ps -ef > /tmp/wilson
 echo "Hello there"
-echo "Second hello from Tom"
-echo "Third hello"
-echo "Fourth hello"
-echo "5"
-echo "8"
-echo "6"
-echo "7"
-echo "final testing"
-echo "one more"
-echo "hi there"
-echo "last test for tonight"
