@@ -1,5 +1,7 @@
 #!/bin/sh
 ps -ef > /tmp/wilson
 echo "Hello there"
-echo "Not from Tom"
-echo "NOT waz up"
+echo "Second hello from Tom"
+echo "Third hello"
+echo "Fourth hello"
+echo "Fifth hello"
