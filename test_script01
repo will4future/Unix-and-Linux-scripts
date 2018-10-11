@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "Original file"
-
+echo "New file"
